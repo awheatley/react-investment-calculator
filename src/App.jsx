@@ -1,5 +1,11 @@
+import UserInput from "./components/UserInput";
+
 function App() {
-  return;
+  return (
+    <>
+      <UserInput />
+    </>
+  );
 }
 
 export default App
